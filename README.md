@@ -1,2 +1,3 @@
 # SGC
-My first repository 03.16
+My first repository 03.16 with new modification
+and all my respect
