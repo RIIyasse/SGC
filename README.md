@@ -4,3 +4,6 @@ and all my respect
 
 chemin : home
 paths  : /home
+
+chemin : contact
+paths : /contact
