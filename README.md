@@ -7,3 +7,7 @@ paths  : /home
 
 chemin : articles
 paths : /articles
+
+chemin : contact
+paths : /contact
+
